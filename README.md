@@ -15,11 +15,6 @@
 <br />
 <br />
 <br />
-## Skills
-#### I use it often.
-<div style="display:flex;gap:30px;flex-wrap:wrap;">
-</div>
-#### I've used it before.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-
 </div>
